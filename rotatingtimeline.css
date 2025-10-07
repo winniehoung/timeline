@@ -93,7 +93,7 @@ li:nth-child(6),li:nth-child(6) .card{
 }
 @keyframes rotateCW{
     from{
-        transform: translate3d(0px, -50%, -1px) rotate(-75deg);
+        transform: translate3d(0px, -50%, -1px) rotate(-45deg);
     }
     to{
         transform: translate3d(0px, -50%, 0px) rotate(-315deg);
